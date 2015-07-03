@@ -7,8 +7,11 @@ Bu çalışmada WEP şifrelemesini kullanan bir kablosuz ağ sisteminin şifresi
 WEP (Wired Equivalent Privacy)  Şifreleme Tekniğine Göre Kullanılabilecek Anahtar Uzunlukları 
 Hexadecimal ASCII 
 64bit (40+24) 0-9 ve A-F arası 10 karakter A-Z ve 0-9 arası 5 karakter 
+
 128bit (104+24) 0-9 ve A-F arası 26 karakter A-Z ve 0-9 arası 13 karakter 
+
 256bit (232+24) 0-9 ve A-F arası 58 karakter A-Z ve 0-9 arası 29 karakter 
+
 WPA (Wi-Fi Protected Access) 
 Hexadecimal ASCII 
 128bit-256bit 0-9 ve A-F arası 64 karakter A-Z ve 0-9 arası 63 karakter 
